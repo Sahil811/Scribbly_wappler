@@ -1,1 +1,1 @@
-Scribblu Website clone build using Wappler
+Scribbly Website clone build using Wappler
